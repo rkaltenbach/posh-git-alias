@@ -135,6 +135,11 @@ function f() {
 	git fetch
 }
 
+# git pull
+function gup(){
+	git pull
+}
+
 # git rebase
 function r() {
 	git rebase --interactive
