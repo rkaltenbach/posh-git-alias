@@ -10,6 +10,7 @@ Just clone this repository and source the `posh-git-alias.ps1` in your PowerShel
 ```
 git clone git@github.com:AlexZeitler/posh-git-alias.git
 ```
+You can execute `autosourceToProfile.ps1` for automating the "installation" process. (*Not ready yet - has to be fixed*)
 
 Find your PowerShell Profile:
 ```
